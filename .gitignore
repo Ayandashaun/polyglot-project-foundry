@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+vendor/
+composer.lock
+Gemfile.lock
+Pods/
+*.lock
+.gradle
+/build/
+/out/
+/dist/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
